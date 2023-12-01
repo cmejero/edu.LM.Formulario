@@ -1,0 +1,140 @@
+@charset "UTF-8";
+.titulo{
+	margin: auto auto 0.1em;
+	font-size: 30px;
+	color: black;
+	text-align: center;
+}
+
+.contenedor1{
+border: 1px solid black;
+width: 1370px;
+height: 180px;
+background-color: rgb(192, 192, 192);
+margin:0.75em auto auto auto
+}
+.input__mod:hover {
+	background-color: rgb(255, 255, 0);
+}
+.input__mod:focus {
+	background-color: rgb(255, 0, 0);
+	}
+.Nombre1{
+position: relative;
+top: 20px;  left: 15px; 
+}
+
+.Nombre1__In{
+position: relative;
+top: 5px;  left: 0px; 
+}
+
+.Apellido{
+	position: relative;
+	top: -20px; left: 200px; 	
+}
+.Apellido__In{
+
+	position: relative;
+	top: 5px; left: 0px; 
+}
+.DNI{
+	position: relative;
+top: -60px;  left:385px;
+}
+.DNI__In{
+	position: relative;
+top: 5px;  left: 0px;
+}	
+.ldn{
+	position: relative;
+top: -50px;  left:17px;
+}
+.ldn__In{
+	position: relative;
+top: 5px;  left: 0px;
+}	
+.provincia{
+	position: relative;
+top: -89px;  left:200px;
+}
+.provincia__In{
+	position: relative;
+top: 5px;  left: 0px;
+}	
+.fechaNac{
+	position: relative;
+top: -90px;  left:185px;
+}
+.fechaNac__In{
+	position: relative;
+top: 5px;  left: 0px;
+  width: 135px;
+}		
+.fechaNac__In--text{
+	position: relative;
+top: 35px;  left: 0px;  
+}
+.Direccion{
+	position: relative;
+	top: -79px; left: -182px; 	
+}
+.Direccion__In{
+	position: relative;
+	top: 5px; left: 0px;
+	width: 300px;
+}
+.CPostal{
+	position: relative;
+	top: -119px; left: 185px; 	
+}
+.CPostal__In{
+	position: relative;
+	top: 5px; left: 0px;	
+}
+
+
+
+
+.contenedor2{
+border: 1px solid black;
+width: 1370px;
+height: 225px;
+background-color: rgb(247, 184, 138);
+margin:0.75em auto auto auto
+}
+.direc{
+	position: relative;
+	top: 25px; left: 70px; 
+}
+.ubicacion{
+	position: relative;
+	top: 25px; left: 130px; 
+	margin: -15px;	
+}
+
+
+
+
+
+
+.contenedor3{
+border: 1px solid black;
+width: 1370px;
+height: 80px;
+background-color: rgb(177, 109, 109);
+margin:0.75em auto auto auto
+}
+.fotocopia{
+	position: relative;
+	top: 10px; left: 50px; 
+}
+.CAcad{
+	position: relative;
+	top: -23px; left: 220px; 
+}
+.otrosD{
+	position: relative;
+	top: -35px; left: 50px; 
+}
+
